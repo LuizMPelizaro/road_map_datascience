@@ -1,0 +1,663 @@
+sex,age,debt,married,bank_customer,industry,ethnicity,years_employed,prior_default,employed,credit_score,drive_license,citizen,zip_code,income,approved
+Male,58.67,4.46,False,True,Chemistry,Hmong,3.04,True,True,6,False,Citizenship,00043,560,True
+Male,24.50,0.5,False,True,Chemistry,Hmong,1.5,True,False,0,False,Citizenship,00280,824,True
+Female,27.83,1.54,False,True,Writing,Viking,3.75,True,True,5,True,Citizenship,00100,3,True
+Female,20.17,5.625,False,True,Writing,Viking,1.71,True,False,0,False,Other,00120,0,True
+Female,32.08,4.0,False,True,Marketing,Viking,2.5,True,False,0,True,Citizenship,00360,0,True
+Female,33.17,1.04,False,True,Human Resources,Hmong,6.5,True,False,0,True,Citizenship,00164,31285,True
+Male,22.92,11.585,False,True,Computer Consulting,Viking,0.04,True,False,0,False,Citizenship,00080,1349,True
+Female,54.42,0.5,True,False,Accounting,Hmong,3.96,True,False,0,False,Citizenship,00180,314,True
+Female,42.50,4.915,True,False,Writing,Viking,3.165,True,False,0,True,Citizenship,00052,1442,True
+Female,22.08,0.83,False,True,Computer Science,Hmong,2.165,False,False,0,True,Citizenship,00128,0,True
+Female,29.92,1.835,False,True,Computer Science,Hmong,4.335,True,False,0,False,Citizenship,00260,200,True
+Male,38.25,6.0,False,True,Accounting,Viking,1.0,True,False,0,True,Citizenship,00000,0,True
+Female,48.08,6.04,False,True,Accounting,Viking,0.04,False,False,0,False,Citizenship,00000,2690,True
+Male,45.83,10.5,False,True,Chemistry,Viking,5.0,True,True,7,True,Citizenship,00000,0,True
+Female,36.67,4.415,True,False,Accounting,Viking,0.25,True,True,10,True,Citizenship,00320,0,True
+Female,28.25,0.875,False,True,Marketing,Viking,0.96,True,True,3,True,Citizenship,00396,0,True
+Male,23.25,5.875,False,True,Chemistry,Viking,3.17,True,True,10,False,Citizenship,00120,245,True
+Female,21.83,0.25,False,True,Graphic Design,Hmong,0.665,True,False,0,True,Citizenship,00000,0,True
+Male,19.17,8.585,False,True,Computer Consulting,Hmong,0.75,True,True,7,False,Citizenship,00096,0,True
+Female,25.00,11.25,False,True,Computer Science,Viking,2.5,True,True,17,False,Citizenship,00200,1208,True
+Female,23.25,1.0,False,True,Computer Science,Viking,0.835,True,False,0,False,Other,00300,0,True
+Male,47.75,8.0,False,True,Computer Science,Viking,7.875,True,True,6,True,Citizenship,00000,1260,True
+Male,27.42,14.5,False,True,Xenobiology,Hmong,3.085,True,True,1,False,Citizenship,00120,11,True
+Male,41.17,6.5,False,True,Chemistry,Viking,0.5,True,True,3,True,Citizenship,00145,0,True
+Male,15.83,0.585,False,True,Computer Science,Hmong,1.5,True,True,2,False,Citizenship,00100,0,True
+Male,47.00,13.0,False,True,Illustration,Bamar,5.165,True,True,9,True,Citizenship,00000,0,True
+Female,56.58,18.5,False,True,Graphic Design,Bamar,15.0,True,True,17,True,Citizenship,00000,0,True
+Female,57.42,8.5,False,True,Engineering,Hmong,7.0,True,True,3,False,Citizenship,00000,0,True
+Female,42.08,1.04,False,True,Writing,Viking,5.0,True,True,6,True,Citizenship,00500,10000,True
+Female,29.25,14.79,False,True,Aquaculture Agriculture,Viking,5.04,True,True,5,True,Citizenship,00168,0,True
+Female,42.00,9.79,False,True,Xenobiology,Hmong,7.96,True,True,8,False,Citizenship,00000,0,True
+Female,49.50,7.585,False,True,Illustration,Bamar,7.585,True,True,15,True,Citizenship,00000,5000,True
+Male,36.75,5.125,False,True,Engineering,Viking,5.0,True,False,0,True,Citizenship,00000,4000,True
+Male,22.58,10.75,False,True,Chemistry,Viking,0.415,True,True,5,True,Citizenship,00000,560,True
+Female,27.83,1.5,False,True,Writing,Viking,2.0,True,True,11,True,Citizenship,00434,35,True
+Female,27.25,1.585,False,True,Computer Consulting,Hmong,1.835,True,True,12,True,Citizenship,00583,713,True
+Male,23.00,11.75,False,True,Xenobiology,Hmong,0.5,True,True,2,True,Citizenship,00300,551,True
+Female,27.75,0.585,True,False,Computer Consulting,Viking,0.25,True,True,2,False,Citizenship,00260,500,True
+Female,54.58,9.415,False,True,Fashion Photography,Fulani,14.415,True,True,11,True,Citizenship,00030,300,True
+Female,34.17,9.17,False,True,Computer Science,Viking,4.5,True,True,12,True,Citizenship,00000,221,True
+Female,28.92,15.0,False,True,Computer Science,Hmong,5.335,True,True,11,False,Citizenship,00000,2283,True
+Female,29.67,1.415,False,True,Writing,Hmong,0.75,True,True,1,False,Citizenship,00240,100,True
+Female,39.58,13.915,False,True,Writing,Viking,8.625,True,True,6,True,Citizenship,00070,0,True
+Female,56.42,28.0,True,False,Computer Science,Viking,28.5,True,True,40,False,Citizenship,00000,15,True
+Female,54.33,6.75,False,True,Computer Science,Hmong,2.625,True,True,11,True,Citizenship,00000,284,True
+Male,41.00,2.04,True,False,Chemistry,Hmong,0.125,True,True,23,True,Citizenship,00455,1236,True
+Female,31.92,4.46,False,True,Computer Consulting,Hmong,6.04,True,True,3,False,Citizenship,00311,300,True
+Female,41.50,1.54,False,True,Illustration,Bamar,3.5,False,False,0,False,Citizenship,00216,0,True
+Female,23.92,0.665,False,True,Computer Science,Viking,0.165,False,False,0,False,Citizenship,00100,0,True
+Male,25.75,0.5,False,True,Computer Science,Hmong,0.875,True,False,0,True,Citizenship,00491,0,True
+Female,26.00,1.0,False,True,Chemistry,Viking,1.75,True,False,0,True,Citizenship,00280,0,True
+Female,37.42,2.04,False,True,Writing,Viking,0.04,True,False,0,True,Citizenship,00400,5800,True
+Female,34.92,2.5,False,True,Writing,Viking,0.0,True,False,0,True,Citizenship,00239,200,True
+Female,34.25,3.0,False,True,Computer Consulting,Hmong,7.415,True,False,0,True,Citizenship,00000,0,True
+Female,23.33,11.625,True,False,Writing,Viking,0.835,True,False,0,True,Citizenship,00160,300,True
+Female,23.17,0.0,False,True,Computer Consulting,Viking,0.085,True,False,0,False,Citizenship,00000,0,True
+Female,44.33,0.5,False,True,Illustration,Hmong,5.0,True,False,0,True,Citizenship,00320,0,True
+Female,35.17,4.5,False,True,Xenobiology,Hmong,5.75,False,False,0,True,Other,00711,0,True
+Female,43.25,3.0,False,True,Chemistry,Hmong,6.0,True,True,11,False,Citizenship,00080,0,True
+Female,56.75,12.25,False,True,Marketing,Viking,1.25,True,True,4,True,Citizenship,00200,0,True
+Female,31.67,16.165,False,True,Graphic Design,Viking,3.0,True,True,9,False,Citizenship,00250,730,True
+Male,23.42,0.79,True,False,Chemistry,Viking,1.5,True,True,2,True,Citizenship,00080,400,True
+Male,20.42,0.835,False,True,Chemistry,Viking,1.585,True,True,1,False,Citizenship,00000,0,True
+Female,26.67,4.25,False,True,Computer Consulting,Viking,4.29,True,True,1,True,Citizenship,00120,0,True
+Female,34.17,1.54,False,True,Computer Consulting,Viking,1.54,True,True,1,True,Citizenship,00520,50000,True
+Male,36.00,1.0,False,True,Computer Science,Viking,2.0,True,True,11,False,Citizenship,00000,456,True
+Female,25.50,0.375,False,True,Marketing,Viking,0.25,True,True,3,False,Citizenship,00260,15108,True
+Female,19.42,6.5,False,True,Writing,Hmong,1.46,True,True,7,False,Citizenship,00080,2954,True
+Female,35.17,25.125,False,True,Xenobiology,Hmong,1.625,True,True,1,True,Citizenship,00515,500,True
+Female,32.33,7.5,False,True,Engineering,Bamar,1.585,True,False,0,True,Other,00420,0,False
+Male,38.58,5.0,False,True,Computer Consulting,Viking,13.5,True,False,0,True,Citizenship,00980,0,False
+Female,44.25,0.5,False,True,Marketing,Viking,10.75,True,False,0,False,Other,00400,0,False
+Female,44.83,7.0,True,False,Computer Science,Viking,1.625,False,False,0,False,Citizenship,00160,2,False
+Female,20.67,5.29,False,True,Chemistry,Viking,0.375,True,True,1,False,Citizenship,00160,0,False
+Female,34.08,6.5,False,True,Aquaculture Agriculture,Viking,0.125,True,False,0,True,Citizenship,00443,0,False
+Male,19.17,0.585,True,False,Aquaculture Agriculture,Viking,0.585,True,False,0,True,Citizenship,00160,0,False
+Female,21.67,1.165,True,False,Accounting,Viking,2.5,True,True,1,False,Citizenship,00180,20,False
+Female,21.50,9.75,False,True,Computer Science,Viking,0.25,True,False,0,False,Citizenship,00140,0,False
+Female,49.58,19.0,False,True,Fashion Photography,Fulani,0.0,True,True,1,False,Citizenship,00094,0,False
+Male,27.67,1.5,False,True,Marketing,Viking,2.0,True,False,0,False,Other,00368,0,False
+Female,39.83,0.5,False,True,Marketing,Viking,0.25,True,False,0,False,Other,00288,0,False
+Female,27.25,0.625,False,True,Aquaculture Agriculture,Viking,0.455,True,False,0,True,Citizenship,00200,0,False
+Female,37.17,4.0,False,True,Computer Science,Bamar,5.0,True,False,0,True,Other,00280,0,False
+Female,25.67,2.21,True,False,Aquaculture Agriculture,Viking,4.0,True,False,0,False,Citizenship,00188,0,False
+Female,34.00,4.5,False,True,Aquaculture Agriculture,Viking,1.0,True,False,0,True,Citizenship,00240,0,False
+Male,49.00,1.5,False,True,Journalism,Javanese,0.0,True,False,0,True,Citizenship,00100,27,False
+Female,62.50,12.75,True,False,Computer Science,Hmong,5.0,True,False,0,False,Citizenship,00112,0,False
+Female,31.42,15.5,False,True,Computer Science,Viking,0.5,True,False,0,False,Citizenship,00120,0,False
+Female,52.33,1.375,True,False,Computer Science,Hmong,9.46,True,False,0,True,Citizenship,00200,100,False
+Female,28.75,1.5,True,False,Computer Science,Viking,1.5,True,False,0,True,Citizenship,00000,225,False
+Male,28.58,3.54,False,True,Illustration,Bamar,0.5,True,False,0,True,Citizenship,00171,0,False
+Female,23.00,0.625,True,False,Aquaculture Agriculture,Viking,0.125,True,False,0,False,Citizenship,00180,1,False
+Male,22.50,11.0,True,False,Chemistry,Viking,3.0,True,False,0,True,Citizenship,00268,0,False
+Male,28.50,1.0,False,True,Chemistry,Viking,1.0,True,True,2,True,Citizenship,00167,500,False
+Female,37.50,1.75,True,False,Computer Science,Bamar,0.25,True,False,0,True,Citizenship,00164,400,False
+Female,35.25,16.5,True,False,Computer Science,Viking,4.0,True,False,0,False,Citizenship,00080,0,False
+Female,18.67,5.0,False,True,Chemistry,Viking,0.375,True,True,2,False,Citizenship,00000,38,False
+Female,25.00,12.0,False,True,Accounting,Viking,2.25,True,True,2,True,Citizenship,00120,5,False
+Female,27.83,4.0,True,False,Illustration,Hmong,5.75,True,True,2,True,Citizenship,00075,0,False
+Female,54.83,15.5,False,True,Engineering,Zulu,0.0,True,True,20,False,Citizenship,00152,130,False
+Female,28.75,1.165,False,True,Accounting,Viking,0.5,True,False,0,False,Other,00280,0,False
+Male,25.00,11.0,True,False,Aquaculture Agriculture,Viking,4.5,True,False,0,False,Citizenship,00120,0,False
+Female,40.92,2.25,True,False,Xenobiology,Hmong,10.0,True,False,0,True,Citizenship,00176,0,False
+Male,19.75,0.75,False,True,Computer Science,Viking,0.795,True,True,5,True,Citizenship,00140,5,False
+Female,29.17,3.5,False,True,Writing,Viking,3.5,True,True,3,True,Citizenship,00329,0,False
+Male,24.50,1.04,True,False,Fashion Photography,Fulani,0.5,True,True,3,False,Citizenship,00180,147,False
+Female,24.58,12.5,False,True,Writing,Viking,0.875,True,False,0,True,Citizenship,00260,0,False
+Male,33.75,0.75,False,True,Accounting,Bamar,1.0,True,True,3,True,Citizenship,00212,0,False
+Female,20.67,1.25,True,False,Computer Science,Hmong,1.375,True,True,3,True,Citizenship,00140,210,False
+Male,25.42,1.125,False,True,Chemistry,Viking,1.29,True,True,2,False,Citizenship,00200,0,False
+Female,37.75,7.0,False,True,Chemistry,Hmong,11.5,True,True,7,True,Citizenship,00300,5,False
+Female,52.50,6.5,False,True,Accounting,Viking,6.29,True,True,15,False,Citizenship,00000,11202,True
+Female,57.83,7.04,False,True,Marketing,Viking,14.0,True,True,6,True,Citizenship,00360,1332,True
+Male,20.75,10.335,False,True,Computer Consulting,Hmong,0.335,True,True,1,True,Citizenship,00080,50,True
+Female,39.92,6.21,False,True,Chemistry,Viking,0.04,True,True,1,False,Citizenship,00200,300,True
+Female,25.67,12.5,False,True,Computer Consulting,Viking,1.21,True,True,67,True,Citizenship,00140,258,True
+Male,24.75,12.5,False,True,Aquaculture Agriculture,Viking,1.5,True,True,12,True,Citizenship,00120,567,True
+Male,44.17,6.665,False,True,Chemistry,Viking,7.375,True,True,3,True,Citizenship,00000,0,True
+Male,23.50,9.0,False,True,Chemistry,Viking,8.5,True,True,5,True,Citizenship,00120,0,True
+Female,34.92,5.0,False,True,Xenobiology,Hmong,7.5,True,True,6,True,Citizenship,00000,1000,True
+Female,47.67,2.5,False,True,Marketing,Bamar,2.5,True,True,12,True,Citizenship,00410,2510,True
+Female,22.75,11.0,False,True,Chemistry,Viking,2.5,True,True,7,True,Citizenship,00100,809,True
+Female,34.42,4.25,False,True,Illustration,Bamar,3.25,True,True,2,False,Citizenship,00274,610,True
+Male,28.42,3.5,False,True,Writing,Viking,0.835,True,False,0,False,Other,00280,0,True
+Female,67.75,5.5,False,True,Engineering,Zulu,13.0,True,True,1,True,Citizenship,00000,0,True
+Female,20.42,1.835,False,True,Computer Science,Viking,2.25,True,True,1,False,Citizenship,00100,150,True
+Male,47.42,8.0,False,True,Engineering,Bamar,6.5,True,True,6,False,Citizenship,00375,51100,True
+Female,36.25,5.0,False,True,Computer Science,Bamar,2.5,True,True,6,False,Citizenship,00000,367,True
+Female,32.67,5.5,False,True,Chemistry,Hmong,5.5,True,True,12,True,Citizenship,00408,1000,True
+Female,48.58,6.5,False,True,Chemistry,Hmong,6.0,True,False,0,True,Citizenship,00350,0,True
+Female,39.92,0.54,True,False,Aquaculture Agriculture,Viking,0.5,True,True,3,False,Citizenship,00200,1000,True
+Female,33.58,2.75,False,True,Marketing,Viking,4.25,True,True,6,False,Citizenship,00204,0,True
+Male,18.83,9.5,False,True,Writing,Viking,1.625,True,True,6,True,Citizenship,00040,600,True
+Male,26.92,13.5,False,True,Chemistry,Hmong,5.0,True,True,2,False,Citizenship,00000,5000,True
+Male,31.25,3.75,False,True,Computer Consulting,Hmong,0.625,True,True,9,True,Citizenship,00181,0,True
+Male,56.50,16.0,False,True,Journalism,Fulani,0.0,True,True,15,False,Citizenship,00000,247,True
+Female,43.00,0.29,True,False,Computer Consulting,Hmong,1.75,True,True,8,False,Citizenship,00100,375,True
+Female,22.33,11.0,False,True,Writing,Viking,2.0,True,True,1,False,Citizenship,00080,278,True
+Female,27.25,1.665,False,True,Computer Consulting,Hmong,5.085,True,True,9,False,Citizenship,00399,827,True
+Female,32.83,2.5,False,True,Computer Consulting,Hmong,2.75,True,True,6,False,Citizenship,00160,2072,True
+Female,23.25,1.5,False,True,Chemistry,Viking,2.375,True,True,3,True,Citizenship,00000,582,True
+Male,40.33,7.54,True,False,Chemistry,Hmong,8.0,True,True,14,False,Citizenship,00000,2300,True
+Male,30.50,6.5,False,True,Computer Science,Bamar,4.0,True,True,7,True,Citizenship,00000,3065,True
+Male,52.83,15.0,False,True,Computer Science,Viking,5.5,True,True,14,False,Citizenship,00000,2200,True
+Male,46.67,0.46,False,True,Computer Consulting,Hmong,0.415,True,True,11,True,Citizenship,00440,6,True
+Male,58.33,10.0,False,True,Chemistry,Viking,4.0,True,True,14,False,Citizenship,00000,1602,True
+Female,37.33,6.5,False,True,Marketing,Hmong,4.25,True,True,12,True,Citizenship,00093,0,True
+Female,23.08,2.5,False,True,Computer Science,Viking,1.085,True,True,11,True,Citizenship,00060,2184,True
+Female,32.75,1.5,False,True,Computer Consulting,Hmong,5.5,True,True,3,True,Citizenship,00000,0,True
+Male,21.67,11.5,True,False,Journalism,Javanese,0.0,True,True,11,True,Citizenship,00000,0,True
+Male,28.50,3.04,True,False,Xenobiology,Hmong,2.54,True,True,1,False,Citizenship,00070,0,True
+Male,68.67,15.0,False,True,Engineering,Zulu,0.0,True,True,14,False,Citizenship,00000,3376,True
+Female,28.00,2.0,False,True,Accounting,Hmong,4.165,True,True,2,True,Citizenship,00181,0,True
+Female,34.08,0.08,True,False,Marketing,Bamar,0.04,True,True,1,True,Citizenship,00280,2000,True
+Female,27.67,2.0,False,True,Xenobiology,Hmong,1.0,True,True,4,False,Citizenship,00140,7544,True
+Female,44.00,2.0,False,True,Marketing,Viking,1.75,True,True,2,True,Citizenship,00000,15,True
+Female,25.08,1.71,False,True,Xenobiology,Viking,1.665,True,True,1,True,Citizenship,00395,20,True
+Female,32.00,1.75,True,False,Engineering,Hmong,0.04,True,False,0,True,Citizenship,00393,0,True
+Male,60.58,16.5,False,True,Chemistry,Viking,11.0,True,False,0,True,Citizenship,00021,10561,True
+Male,40.83,10.0,False,True,Chemistry,Hmong,1.75,True,False,0,False,Citizenship,00029,837,True
+Female,19.33,9.5,False,True,Chemistry,Viking,1.0,True,False,0,True,Citizenship,00060,400,True
+Male,32.33,0.54,False,True,Computer Consulting,Viking,0.04,True,False,0,False,Citizenship,00440,11177,True
+Female,36.67,3.25,False,True,Chemistry,Hmong,9.0,True,False,0,True,Citizenship,00102,639,True
+Female,37.50,1.125,True,False,Graphic Design,Viking,1.5,False,False,0,True,Citizenship,00431,0,True
+Male,25.08,2.54,True,False,Aquaculture Agriculture,Viking,0.25,True,False,0,True,Citizenship,00370,0,True
+Female,41.33,0.0,False,True,Computer Science,Bamar,15.0,True,False,0,False,Citizenship,00000,0,True
+Female,56.00,12.5,False,True,Accounting,Hmong,8.0,True,False,0,True,Citizenship,00024,2028,True
+Male,49.83,13.585,False,True,Accounting,Hmong,8.5,True,False,0,True,Citizenship,00000,0,True
+Female,22.67,10.5,False,True,Chemistry,Hmong,1.335,True,False,0,False,Citizenship,00100,0,True
+Female,27.00,1.5,True,False,Writing,Viking,0.375,True,False,0,True,Citizenship,00260,1065,True
+Female,25.00,12.5,False,True,Aquaculture Agriculture,Viking,3.0,True,False,0,True,Other,00020,0,True
+Male,26.08,8.665,False,True,Aquaculture Agriculture,Viking,1.415,True,False,0,False,Citizenship,00160,150,True
+Male,18.42,9.25,False,True,Chemistry,Viking,1.21,True,True,4,False,Citizenship,00060,540,True
+Female,20.17,8.17,False,True,Aquaculture Agriculture,Viking,1.96,True,True,14,False,Citizenship,00060,158,True
+Female,47.67,0.29,False,True,Computer Science,Bamar,15.0,True,True,20,False,Citizenship,00000,15000,True
+Male,21.25,2.335,False,True,Illustration,Bamar,0.5,True,True,4,False,Other,00080,0,True
+Male,20.67,3.0,False,True,Chemistry,Viking,0.165,True,True,3,False,Citizenship,00100,6,True
+Male,57.08,19.5,False,True,Computer Science,Viking,5.5,True,True,7,False,Citizenship,00000,3000,True
+Male,22.42,5.665,False,True,Chemistry,Viking,2.585,True,True,7,False,Citizenship,00129,3257,True
+Female,48.75,8.5,False,True,Computer Science,Hmong,12.5,True,True,9,False,Citizenship,00181,1655,True
+Female,40.00,6.5,False,True,Aquaculture Agriculture,Bamar,3.5,True,True,1,False,Citizenship,00000,500,True
+Female,40.58,5.0,False,True,Computer Science,Viking,5.0,True,True,7,False,Citizenship,00000,3065,True
+Male,28.67,1.04,False,True,Computer Science,Viking,2.5,True,True,5,True,Citizenship,00300,1430,True
+Male,33.08,4.625,False,True,Chemistry,Hmong,1.625,True,True,2,False,Citizenship,00000,0,True
+Female,21.33,10.5,False,True,Computer Science,Viking,3.0,True,False,0,True,Citizenship,00000,0,True
+Female,42.00,0.205,False,True,Illustration,Hmong,5.125,True,False,0,False,Citizenship,00400,0,True
+Female,41.75,0.96,False,True,Xenobiology,Viking,2.5,True,False,0,False,Citizenship,00510,600,True
+Female,22.67,1.585,True,False,Writing,Viking,3.085,True,True,6,False,Citizenship,00080,0,True
+Female,34.50,4.04,True,False,Illustration,Bamar,8.5,True,True,7,True,Citizenship,00195,0,True
+Female,28.25,5.04,True,False,Computer Science,Bamar,1.5,True,True,8,True,Citizenship,00144,7,True
+Female,33.17,3.165,True,False,Xenobiology,Viking,3.165,True,True,3,True,Citizenship,00380,0,True
+Female,48.17,7.625,False,True,Writing,Hmong,15.5,True,True,12,False,Citizenship,00000,790,True
+Female,27.58,2.04,True,False,Aquaculture Agriculture,Viking,2.0,True,True,3,True,Citizenship,00370,560,True
+Female,22.58,10.04,False,True,Xenobiology,Viking,0.04,True,True,9,False,Citizenship,00060,396,True
+Male,24.08,0.5,False,True,Chemistry,Hmong,1.25,True,True,1,False,Citizenship,00000,678,True
+Male,41.33,1.0,False,True,Illustration,Bamar,2.25,True,False,0,True,Citizenship,00000,300,True
+Male,20.75,10.25,False,True,Chemistry,Viking,0.71,True,True,2,True,Citizenship,00049,0,True
+Female,36.33,2.125,True,False,Writing,Viking,0.085,True,True,1,False,Citizenship,00050,1187,True
+Male,35.42,12.0,False,True,Chemistry,Hmong,14.0,True,True,8,False,Citizenship,00000,6590,True
+Female,28.67,9.335,False,True,Chemistry,Hmong,5.665,True,True,6,False,Citizenship,00381,168,True
+Female,35.17,2.5,False,True,Accounting,Viking,4.5,True,True,7,False,Citizenship,00150,1270,True
+Female,39.50,4.25,False,True,Computer Science,Bamar,6.5,True,True,16,False,Citizenship,00117,1210,True
+Female,39.33,5.875,False,True,Computer Consulting,Hmong,10.0,True,True,14,True,Citizenship,00399,0,True
+Female,24.33,6.625,True,False,Graphic Design,Viking,5.5,True,False,0,True,Other,00100,0,True
+Female,60.08,14.5,False,True,Fashion Photography,Fulani,18.0,True,True,15,True,Citizenship,00000,1000,True
+Female,23.08,11.5,False,True,Illustration,Viking,3.5,True,True,9,False,Citizenship,00056,742,True
+Female,26.67,2.71,True,False,Computer Consulting,Viking,5.25,True,True,1,False,Citizenship,00211,0,True
+Female,48.17,3.5,False,True,Aquaculture Agriculture,Viking,3.5,True,False,0,False,Other,00230,0,True
+Female,41.17,4.04,False,True,Computer Consulting,Hmong,7.0,True,True,8,False,Citizenship,00320,0,True
+Female,55.92,11.5,False,True,Fashion Photography,Fulani,5.0,True,True,5,False,Citizenship,00000,8851,True
+Female,53.92,9.625,False,True,Engineering,Viking,8.665,True,True,5,False,Citizenship,00000,0,True
+Male,18.92,9.25,True,False,Computer Science,Viking,1.0,True,True,4,True,Citizenship,00080,500,True
+Male,50.08,12.54,False,True,Aquaculture Agriculture,Viking,2.29,True,True,3,True,Citizenship,00156,0,True
+Female,65.42,11.0,False,True,Engineering,Zulu,20.0,True,True,7,True,Citizenship,00022,0,True
+Male,17.58,9.0,False,True,Aquaculture Agriculture,Viking,1.375,True,False,0,True,Citizenship,00000,0,True
+Male,18.83,9.54,False,True,Aquaculture Agriculture,Viking,0.085,True,False,0,False,Citizenship,00100,0,True
+Male,37.75,5.5,False,True,Chemistry,Viking,0.125,True,False,0,True,Citizenship,00228,0,True
+Female,23.25,4.0,False,True,Computer Science,Bamar,0.25,True,False,0,True,Citizenship,00160,0,True
+Female,18.08,5.5,False,True,Accounting,Viking,0.5,True,False,0,False,Citizenship,00080,0,True
+Male,22.50,8.46,True,False,Xenobiology,Viking,2.46,False,False,0,False,Citizenship,00164,0,True
+Female,19.67,0.375,False,True,Chemistry,Viking,2.0,True,True,2,True,Citizenship,00080,0,True
+Female,22.08,11.0,False,True,Computer Consulting,Viking,0.665,True,False,0,False,Citizenship,00100,0,True
+Female,25.17,3.5,False,True,Computer Consulting,Viking,0.625,True,True,7,False,Citizenship,00000,7059,True
+Male,47.42,3.0,False,True,Xenobiology,Viking,13.875,True,True,2,True,Citizenship,00519,1704,True
+Female,33.50,1.75,False,True,Xenobiology,Hmong,4.5,True,True,4,True,Citizenship,00253,857,True
+Female,27.67,13.75,False,True,Writing,Viking,5.75,True,False,0,True,Citizenship,00487,500,True
+Male,58.42,21.0,False,True,Illustration,Bamar,10.0,True,True,13,False,Citizenship,00000,6700,True
+Male,20.67,1.835,False,True,Chemistry,Viking,2.085,True,True,5,False,Citizenship,00220,2503,True
+Female,26.17,0.25,False,True,Illustration,Bamar,0.0,True,False,0,True,Citizenship,00000,0,True
+Female,21.33,7.5,False,True,Aquaculture Agriculture,Viking,1.415,True,True,1,False,Citizenship,00080,9800,True
+Female,42.83,4.625,False,True,Chemistry,Viking,4.58,True,False,0,False,Other,00000,0,True
+Female,38.17,10.125,False,True,Xenobiology,Viking,2.5,True,True,6,False,Citizenship,00520,196,True
+Female,20.50,10.0,True,False,Computer Science,Viking,2.5,True,False,0,False,Other,00040,0,True
+Female,48.25,25.085,False,True,Writing,Viking,1.75,True,True,3,False,Citizenship,00120,14,True
+Female,28.33,5.0,False,True,Writing,Viking,11.0,True,False,0,True,Citizenship,00070,0,True
+Female,18.50,2.0,False,True,Illustration,Viking,1.5,True,True,2,False,Citizenship,00120,300,True
+Female,33.17,3.04,True,False,Computer Science,Hmong,2.04,True,True,1,True,Citizenship,00180,18027,True
+Female,45.00,8.5,False,True,Computer Consulting,Hmong,14.0,True,True,1,True,Citizenship,00088,2000,True
+Male,19.67,0.21,False,True,Chemistry,Hmong,0.29,True,True,11,False,Citizenship,00080,99,True
+Male,24.50,12.75,False,True,Computer Science,Bamar,4.75,True,True,2,False,Citizenship,00073,444,True
+Female,21.83,11.0,False,True,Xenobiology,Viking,0.29,True,True,6,False,Citizenship,00121,0,True
+Female,40.25,21.5,False,True,Engineering,Zulu,20.0,True,True,11,False,Citizenship,00000,1200,True
+Female,41.42,5.0,False,True,Chemistry,Hmong,5.0,True,True,6,True,Citizenship,00470,0,True
+Male,17.83,11.0,False,True,Xenobiology,Hmong,1.0,True,True,11,False,Citizenship,00000,3000,True
+Female,23.17,11.125,False,True,Xenobiology,Hmong,0.46,True,True,1,False,Citizenship,00100,0,True
+Female,18.17,10.25,False,True,Computer Science,Hmong,1.085,False,False,0,False,Citizenship,00320,13,False
+Female,20.00,11.045,False,True,Computer Science,Viking,2.0,False,False,0,True,Citizenship,00136,0,False
+Female,20.00,0.0,False,True,Graphic Design,Viking,0.5,False,False,0,False,Citizenship,00144,0,False
+Male,20.75,9.54,False,True,Illustration,Viking,0.04,False,False,0,False,Citizenship,00200,1000,False
+Male,24.50,1.75,True,False,Computer Science,Viking,0.165,False,False,0,False,Citizenship,00132,0,False
+Female,32.75,2.335,False,True,Graphic Design,Hmong,5.75,False,False,0,True,Citizenship,00292,0,False
+Male,52.17,0.0,True,False,Fashion Photography,Fulani,0.0,False,False,0,False,Citizenship,00000,0,False
+Male,48.17,1.335,False,True,Illustration,Otomi,0.335,False,False,0,False,Citizenship,00000,120,False
+Male,20.42,10.5,True,False,Xenobiology,Hmong,0.0,False,False,0,True,Citizenship,00154,32,False
+Female,50.75,0.585,False,True,Fashion Photography,Fulani,0.0,False,False,0,False,Citizenship,00145,0,False
+Female,17.08,0.085,True,False,Computer Science,Viking,0.04,False,False,0,False,Citizenship,00140,722,False
+Female,18.33,1.21,True,False,Engineering,Druze,0.0,False,False,0,False,Citizenship,00100,0,False
+Male,32.00,6.0,False,True,Graphic Design,Viking,1.25,False,False,0,False,Citizenship,00272,0,False
+Female,59.67,1.54,False,True,Chemistry,Viking,0.125,True,False,0,True,Citizenship,00260,0,True
+Female,18.00,0.165,False,True,Chemistry,Navajo,0.21,False,False,0,False,Citizenship,00200,40,True
+Female,32.33,2.5,False,True,Computer Science,Viking,1.25,False,False,0,True,Citizenship,00280,0,False
+Female,18.08,6.75,True,False,Marketing,Viking,0.04,False,False,0,False,Citizenship,00140,0,False
+Female,38.25,10.125,True,False,Accounting,Viking,0.125,False,False,0,False,Citizenship,00160,0,False
+Female,30.67,2.5,False,True,Computer Consulting,Hmong,2.25,False,False,0,True,Other,00340,0,False
+Female,18.58,5.71,False,True,Graphic Design,Viking,0.54,False,False,0,False,Citizenship,00120,0,False
+Male,19.17,5.415,False,True,Illustration,Hmong,0.29,False,False,0,False,Citizenship,00080,484,False
+Male,18.17,10.0,True,False,Chemistry,Hmong,0.165,False,False,0,False,Citizenship,00340,0,False
+Female,16.25,0.835,False,True,Marketing,Viking,0.085,True,False,0,False,Other,00200,0,False
+Female,21.17,0.875,True,False,Computer Science,Hmong,0.25,False,False,0,False,Citizenship,00280,204,False
+Female,23.92,0.585,True,False,Computer Consulting,Hmong,0.125,False,False,0,False,Citizenship,00240,1,False
+Female,17.67,4.46,False,True,Computer Science,Viking,0.25,False,False,0,False,Other,00080,0,False
+Male,16.50,1.25,False,True,Chemistry,Viking,0.25,False,True,1,False,Citizenship,00108,98,False
+Female,23.25,12.625,False,True,Computer Science,Viking,0.125,False,True,2,False,Citizenship,00000,5552,False
+Female,17.58,10.0,False,True,Writing,Hmong,0.165,False,True,1,False,Citizenship,00120,1,False
+Female,29.50,0.58,False,True,Writing,Viking,0.29,False,True,1,False,Citizenship,00340,2803,False
+Female,18.83,0.415,True,False,Computer Science,Viking,0.165,False,True,1,False,Citizenship,00200,1,False
+Male,21.75,1.75,True,False,Journalism,Javanese,0.0,False,False,0,False,Citizenship,00160,0,False
+Female,23.00,0.75,False,True,Marketing,Viking,0.5,False,False,0,True,Other,00320,0,False
+Male,18.25,10.0,False,True,Writing,Viking,1.0,False,True,1,False,Citizenship,00120,1,False
+Female,25.42,0.54,False,True,Writing,Viking,0.165,False,True,1,False,Citizenship,00272,444,False
+Female,35.75,2.415,False,True,Writing,Viking,0.125,False,True,2,False,Citizenship,00220,1,False
+Male,16.08,0.335,False,True,Fashion Photography,Fulani,0.0,False,True,1,False,Citizenship,00160,126,False
+Male,31.92,3.125,False,True,Fashion Photography,Fulani,3.04,False,True,2,True,Citizenship,00200,4,False
+Female,69.17,9.0,False,True,Fashion Photography,Fulani,4.0,False,True,1,False,Citizenship,00070,6,False
+Female,32.92,2.5,False,True,Aquaculture Agriculture,Viking,1.75,False,True,2,True,Citizenship,00720,0,False
+Female,16.33,2.75,False,True,Aquaculture Agriculture,Viking,0.665,False,True,1,False,Citizenship,00080,21,False
+Female,22.17,12.125,False,True,Computer Science,Viking,3.335,False,True,2,True,Citizenship,00180,173,False
+Male,57.58,2.0,False,True,Fashion Photography,Fulani,6.5,False,True,1,False,Citizenship,00000,10,False
+Female,18.25,0.165,False,True,Graphic Design,Viking,0.25,False,False,0,True,Other,00280,0,False
+Female,23.42,1.0,False,True,Computer Science,Viking,0.5,False,False,0,True,Other,00280,0,False
+Male,15.92,2.875,False,True,Chemistry,Viking,0.085,False,False,0,False,Citizenship,00120,0,False
+Male,24.75,13.665,False,True,Chemistry,Hmong,1.5,False,False,0,False,Citizenship,00280,1,False
+Female,48.75,26.335,True,False,Fashion Photography,Fulani,0.0,True,False,0,True,Citizenship,00000,0,False
+Female,23.50,2.75,False,True,Fashion Photography,Fulani,4.5,False,False,0,False,Citizenship,00160,25,False
+Female,18.58,10.29,False,True,Fashion Photography,Fulani,0.415,False,False,0,False,Citizenship,00080,0,False
+Female,27.75,1.29,False,True,Accounting,Hmong,0.25,False,False,0,True,Other,00140,0,False
+Male,31.75,3.0,True,False,Journalism,Javanese,0.0,False,False,0,False,Citizenship,00160,20,False
+Male,24.83,4.5,False,True,Writing,Viking,1.0,False,False,0,True,Citizenship,00360,6,False
+Female,19.00,1.75,True,False,Computer Science,Viking,2.335,False,False,0,True,Citizenship,00112,6,False
+Male,16.33,0.21,False,True,Aquaculture Agriculture,Viking,0.125,False,False,0,False,Citizenship,00200,1,False
+Male,18.58,10.0,False,True,Graphic Design,Viking,0.415,False,False,0,False,Citizenship,00080,42,False
+Female,16.25,0.0,True,False,Aquaculture Agriculture,Viking,0.25,False,False,0,False,Citizenship,00060,0,False
+Female,23.00,0.75,False,True,Marketing,Viking,0.5,True,False,0,True,Other,00320,0,False
+Female,21.17,0.25,True,False,Computer Science,Hmong,0.25,False,False,0,False,Citizenship,00280,204,False
+Female,17.50,22.0,False,Former Client,Fashion Photography,Otomi,0.0,False,False,0,True,temporary,00450,100000,True
+Female,19.17,0.0,True,False,Marketing,Bamar,0.0,False,False,0,True,Other,00500,1,True
+Female,36.75,0.125,True,False,Computer Science,Viking,1.5,False,False,0,True,Citizenship,00232,113,True
+Female,21.25,1.5,False,True,Writing,Viking,1.5,False,False,0,False,Citizenship,00150,8,True
+Male,18.08,0.375,False,Former Client,Computer Consulting,Fulani,10.0,False,False,0,True,Other,00300,0,True
+Male,33.67,0.375,False,True,Computer Consulting,Viking,0.375,False,False,0,False,Citizenship,00300,44,True
+Female,48.58,0.205,True,False,Accounting,Viking,0.25,True,True,11,False,Citizenship,00380,2732,True
+Female,33.67,1.25,False,True,Writing,Viking,1.165,False,False,0,False,Citizenship,00120,0,False
+Male,29.50,1.085,True,False,Xenobiology,Viking,1.0,False,False,0,False,Citizenship,00280,13,False
+Female,30.17,1.085,True,False,Computer Science,Viking,0.04,False,False,0,False,Citizenship,00170,179,False
+Male,40.83,3.5,False,True,Illustration,Bamar,0.5,False,False,0,False,Other,01160,0,False
+Female,34.83,2.5,True,False,Writing,Viking,3.0,False,False,0,False,Other,00200,0,False
+Male,33.25,2.5,True,False,Computer Science,Viking,2.5,False,False,0,True,Citizenship,00000,2,False
+Female,34.08,2.5,False,True,Computer Science,Viking,1.0,False,False,0,False,Citizenship,00460,16,False
+Male,25.25,12.5,False,True,Graphic Design,Viking,1.0,False,False,0,True,Citizenship,00180,1062,False
+Female,34.75,2.5,False,True,Computer Consulting,Bamar,0.5,False,False,0,False,Citizenship,00348,0,False
+Female,27.67,0.75,False,True,Chemistry,Hmong,0.165,False,False,0,True,Citizenship,00220,251,False
+Female,47.33,6.5,False,True,Computer Science,Viking,1.0,False,False,0,True,Citizenship,00000,228,False
+Male,34.83,1.25,True,False,Illustration,Hmong,0.5,False,False,0,True,Citizenship,00160,0,False
+Male,33.25,3.0,True,False,Aquaculture Agriculture,Viking,2.0,False,False,0,False,Citizenship,00180,0,False
+Female,28.00,3.0,False,True,Writing,Viking,0.75,False,False,0,True,Citizenship,00300,67,False
+Male,39.08,4.0,False,True,Computer Science,Viking,3.0,False,False,0,False,Citizenship,00480,0,False
+Female,42.75,4.085,False,True,Aquaculture Agriculture,Viking,0.04,False,False,0,False,Citizenship,00108,100,False
+Female,26.92,2.25,False,True,Illustration,Bamar,0.5,False,False,0,True,Citizenship,00640,4000,False
+Female,33.75,2.75,False,True,Illustration,Bamar,0.0,False,False,0,False,Citizenship,00180,0,False
+Female,38.92,1.75,False,True,Accounting,Viking,0.5,False,False,0,True,Citizenship,00300,2,False
+Female,62.75,7.0,False,True,Engineering,Zulu,0.0,False,False,0,False,Citizenship,00000,12,False
+Male,32.25,1.5,False,True,Computer Science,Viking,0.25,False,False,0,True,Citizenship,00372,122,False
+Female,26.75,4.5,True,False,Computer Science,Bamar,2.5,False,False,0,False,Citizenship,00200,1210,False
+Female,63.33,0.54,False,True,Computer Science,Viking,0.585,True,True,3,True,Citizenship,00180,0,False
+Female,27.83,1.5,False,True,Writing,Viking,2.25,False,True,1,True,Citizenship,00100,3,False
+Male,26.17,2.0,False,True,Journalism,Javanese,0.0,False,False,0,True,Citizenship,00276,1,False
+Female,22.17,0.585,True,False,Fashion Photography,Fulani,0.0,False,False,0,False,Citizenship,00100,0,False
+Female,22.50,11.5,True,False,Marketing,Viking,1.5,False,False,0,True,Citizenship,00000,4000,False
+Female,30.75,1.585,False,True,Graphic Design,Viking,0.585,False,False,0,True,Other,00000,0,False
+Female,36.67,2.0,False,True,Illustration,Viking,0.25,False,False,0,True,Citizenship,00221,0,False
+Male,16.00,0.165,False,True,Aquaculture Agriculture,Viking,1.0,False,True,2,True,Citizenship,00320,1,False
+Female,41.17,1.335,False,True,Graphic Design,Viking,0.165,False,False,0,False,Citizenship,00168,0,False
+Male,19.50,0.165,False,True,Chemistry,Viking,0.04,False,False,0,True,Citizenship,00380,0,False
+Female,32.42,3.0,False,True,Graphic Design,Viking,0.165,False,False,0,True,Citizenship,00120,0,False
+Male,36.75,4.71,False,True,Fashion Photography,Fulani,0.0,False,False,0,False,Citizenship,00160,0,False
+Male,30.25,5.5,False,True,Accounting,Viking,5.5,False,False,0,True,Other,00100,0,False
+Female,23.08,2.5,False,True,Fashion Photography,Fulani,0.085,False,False,0,True,Citizenship,00100,4208,False
+Female,26.83,0.54,False,True,Accounting,Fulani,0.0,False,False,0,False,Citizenship,00100,0,False
+Female,16.92,0.335,True,False,Accounting,Viking,0.29,False,False,0,False,Other,00200,0,False
+Female,24.42,2.0,False,True,Engineering,Druze,0.165,False,True,2,False,Citizenship,00320,1300,False
+Female,42.83,1.25,False,True,Marketing,Viking,13.875,False,True,1,True,Citizenship,00352,112,False
+Male,22.75,6.165,False,True,Aquaculture Agriculture,Viking,0.165,False,False,0,False,Citizenship,00220,1000,False
+Female,39.42,1.71,True,False,Marketing,Viking,0.165,False,False,0,False,Other,00400,0,False
+Male,23.58,11.5,True,False,Accounting,Hmong,3.0,False,False,0,True,Citizenship,00020,16,False
+Female,21.42,0.75,True,False,Human Resources,Navajo,0.75,False,False,0,True,Citizenship,00132,2,False
+Female,33.00,2.5,True,False,Writing,Viking,7.0,False,False,0,True,Citizenship,00280,0,False
+Female,26.33,13.0,False,True,Engineering,Druze,0.0,False,False,0,True,Citizenship,00140,1110,False
+Male,45.00,4.585,False,True,Accounting,Hmong,1.0,False,False,0,True,Other,00240,0,False
+Female,26.25,1.54,False,True,Writing,Viking,0.125,False,False,0,False,Citizenship,00100,0,False
+Male,28.17,0.585,False,True,Aquaculture Agriculture,Viking,0.04,False,False,0,False,Citizenship,00260,1004,False
+Male,20.83,0.5,True,False,Engineering,Druze,1.0,False,False,0,False,Citizenship,00260,0,False
+Female,28.67,14.5,False,True,Graphic Design,Viking,0.125,False,False,0,False,Citizenship,00000,286,False
+Female,20.67,0.835,True,False,Computer Science,Viking,2.0,False,False,0,True,Other,00240,0,False
+Female,34.42,1.335,False,True,Illustration,Bamar,0.125,False,False,0,True,Citizenship,00440,4500,False
+Female,33.58,0.25,False,True,Illustration,Bamar,4.0,False,False,0,True,Other,00420,0,False
+Female,43.17,5.0,False,True,Illustration,Bamar,2.25,False,False,0,True,Citizenship,00141,0,False
+Male,22.67,7.0,False,True,Computer Science,Viking,0.165,False,False,0,False,Citizenship,00160,0,False
+Male,24.33,2.5,True,False,Illustration,Bamar,4.5,False,False,0,False,Citizenship,00200,456,False
+Male,56.83,4.25,True,False,Fashion Photography,Fulani,5.0,False,False,0,True,Citizenship,00000,4,False
+Female,22.08,11.46,False,True,Accounting,Viking,1.585,False,False,0,True,Citizenship,00100,1212,False
+Female,34.00,5.5,True,False,Computer Science,Viking,1.5,False,False,0,True,Citizenship,00060,0,False
+Female,22.58,1.5,True,False,Aquaculture Agriculture,Viking,0.54,False,False,0,True,Citizenship,00120,67,False
+Female,21.17,0.0,False,True,Computer Science,Viking,0.5,False,False,0,True,Other,00000,0,False
+Female,26.67,14.585,False,True,Illustration,Bamar,0.0,False,False,0,True,Citizenship,00178,0,False
+Female,22.92,0.17,False,True,Marketing,Viking,0.085,False,False,0,False,Other,00000,0,False
+Female,15.17,7.0,False,True,Engineering,Viking,1.0,False,False,0,False,Citizenship,00600,0,False
+Female,39.92,5.0,False,True,Illustration,Bamar,0.21,False,False,0,False,Citizenship,00550,0,False
+Female,27.42,12.5,False,True,Aquaculture Agriculture,Bamar,0.25,False,False,0,True,Citizenship,00720,0,False
+Female,24.75,0.54,False,True,Marketing,Viking,1.0,False,False,0,True,Citizenship,00120,1,False
+Female,41.17,1.25,True,False,Writing,Viking,0.25,False,False,0,False,Citizenship,00000,195,False
+Male,33.08,1.625,False,True,Graphic Design,Viking,0.54,False,False,0,True,Citizenship,00000,0,False
+Female,29.83,2.04,True,False,Xenobiology,Hmong,0.04,False,False,0,False,Citizenship,00128,1,False
+Male,23.58,0.585,True,False,Fashion Photography,Fulani,0.125,False,False,0,False,Citizenship,00120,87,False
+Female,26.17,12.5,True,False,Accounting,Hmong,1.25,False,False,0,True,Citizenship,00000,17,False
+Female,31.00,2.085,False,True,Computer Science,Viking,0.085,False,False,0,False,Citizenship,00300,0,False
+Female,20.75,5.085,True,False,Journalism,Viking,0.29,False,False,0,False,Citizenship,00140,184,False
+Female,28.92,0.375,False,True,Computer Science,Viking,0.29,False,False,0,False,Citizenship,00220,140,False
+Male,51.92,6.5,False,True,Illustration,Bamar,3.085,False,False,0,True,Citizenship,00073,0,False
+Male,22.67,0.335,False,True,Chemistry,Viking,0.75,False,False,0,False,Other,00160,0,False
+Female,34.00,5.085,True,False,Illustration,Bamar,1.085,False,False,0,True,Citizenship,00480,0,False
+Male,69.50,6.0,False,True,Fashion Photography,Fulani,0.0,False,False,0,False,Other,00000,0,False
+Male,19.58,0.665,True,False,Computer Science,Viking,1.0,False,True,1,False,Citizenship,02000,2,False
+Female,16.00,3.125,False,True,Writing,Viking,0.085,False,True,1,False,Citizenship,00000,6,False
+Female,17.08,0.25,False,True,Chemistry,Viking,0.335,False,True,4,False,Citizenship,00160,8,False
+Female,31.25,2.835,False,True,Fashion Photography,Fulani,0.0,False,True,5,False,Citizenship,00176,146,False
+Female,25.17,3.0,False,True,Computer Science,Viking,1.25,False,True,1,False,Citizenship,00000,22,False
+Male,22.67,0.79,False,True,Illustration,Viking,0.085,False,False,0,False,Citizenship,00144,0,False
+Female,40.58,1.5,False,True,Illustration,Bamar,0.0,False,False,0,False,Other,00300,0,False
+Female,22.25,0.46,False,True,Accounting,Viking,0.125,False,False,0,True,Citizenship,00280,55,False
+Male,22.25,1.25,True,False,Fashion Photography,Fulani,3.25,False,False,0,False,Citizenship,00280,0,False
+Female,22.50,0.125,True,False,Accounting,Viking,0.125,False,False,0,False,Citizenship,00200,70,False
+Female,23.58,1.79,False,True,Computer Science,Viking,0.54,False,False,0,True,Citizenship,00136,1,False
+Female,38.42,0.705,False,True,Computer Science,Viking,0.375,False,True,2,False,Citizenship,00225,500,False
+Male,26.58,2.54,True,False,Fashion Photography,Fulani,0.0,False,False,0,True,Citizenship,00180,60,False
+Female,35.00,2.5,False,True,Illustration,Viking,1.0,False,False,0,True,Citizenship,00210,0,False
+Female,20.42,1.085,False,True,Chemistry,Viking,1.5,False,False,0,False,Citizenship,00108,7,False
+Female,29.42,1.25,False,True,Writing,Viking,1.75,False,False,0,False,Citizenship,00200,0,False
+Female,26.17,0.835,False,True,Computer Consulting,Viking,1.165,False,False,0,False,Citizenship,00100,0,False
+Female,33.67,2.165,False,True,Computer Science,Viking,1.5,False,False,0,False,temporary,00120,0,False
+Female,24.58,1.25,False,True,Computer Science,Viking,0.25,False,False,0,False,Citizenship,00110,0,False
+Male,27.67,2.04,False,True,Writing,Viking,0.25,False,False,0,True,Citizenship,00180,50,False
+Female,37.50,0.835,False,True,Engineering,Viking,0.04,False,False,0,False,Citizenship,00120,5,False
+Female,49.17,2.29,False,True,Fashion Photography,Fulani,0.29,False,False,0,False,Citizenship,00200,3,False
+Female,33.58,0.335,True,False,Computer Consulting,Viking,0.085,False,False,0,False,Citizenship,00180,0,False
+Female,51.83,3.0,True,False,Fashion Photography,Fulani,1.5,False,False,0,False,Citizenship,00180,4,False
+Female,22.92,3.165,True,False,Computer Science,Viking,0.165,False,False,0,False,Citizenship,00160,1058,False
+Female,21.83,1.54,False,True,Accounting,Viking,0.085,False,False,0,True,Citizenship,00356,0,False
+Female,25.25,1.0,False,True,Aquaculture Agriculture,Viking,0.5,False,False,0,False,Citizenship,00200,0,False
+Female,58.58,2.71,False,True,Computer Science,Viking,2.415,False,False,0,True,Citizenship,00320,0,False
+Female,19.00,0.0,True,False,Fashion Photography,Fulani,0.0,False,True,4,False,Citizenship,00045,1,False
+Female,19.58,0.585,False,True,Fashion Photography,Fulani,0.0,False,True,3,False,Citizenship,00350,769,False
+Male,53.33,0.165,False,True,Fashion Photography,Fulani,0.0,False,False,0,True,Other,00062,27,False
+Male,27.17,1.25,False,True,Fashion Photography,Fulani,0.0,False,True,1,False,Citizenship,00092,300,False
+Female,25.92,0.875,False,True,Accounting,Viking,0.375,False,True,2,True,Citizenship,00174,3,False
+Female,23.08,0.0,False,True,Accounting,Viking,1.0,False,True,11,False,Other,00000,0,False
+Female,39.58,5.0,False,True,Fashion Photography,Fulani,0.0,False,True,2,False,Citizenship,00017,1,False
+Female,30.58,2.71,True,False,Marketing,Viking,0.125,False,False,0,True,Other,00080,0,False
+Female,17.25,3.0,False,True,Accounting,Viking,0.04,False,False,0,True,Citizenship,00160,40,False
+Male,17.67,0.0,True,False,Journalism,Fulani,0.0,False,False,0,False,Citizenship,00086,0,False
+Female,16.50,0.125,False,True,Computer Science,Viking,0.165,False,False,0,False,Citizenship,00132,0,False
+Male,27.33,1.665,False,True,Fashion Photography,Fulani,0.0,False,False,0,False,Citizenship,00340,1,False
+Female,31.25,1.125,False,True,Fashion Photography,Fulani,0.0,False,True,1,False,Citizenship,00096,19,False
+Female,20.00,7.0,False,True,Computer Science,Viking,0.5,False,False,0,False,Citizenship,00000,0,False
+Female,39.50,1.625,False,True,Computer Science,Viking,1.5,False,False,0,False,Citizenship,00000,316,False
+Female,36.50,4.25,False,True,Chemistry,Viking,3.5,False,False,0,False,Citizenship,00454,50,False
+Male,29.75,0.665,False,True,Writing,Viking,0.25,False,False,0,True,Citizenship,00300,0,False
+Female,52.42,1.5,False,True,Graphic Design,Viking,3.75,False,False,0,True,Citizenship,00000,350,False
+Female,36.17,18.125,False,True,Writing,Viking,0.085,False,False,0,False,Citizenship,00320,3552,False
+Female,29.67,0.75,True,False,Computer Science,Viking,0.04,False,False,0,False,Citizenship,00240,0,False
+Female,36.17,5.5,False,True,Illustration,Bamar,5.0,False,False,0,False,Citizenship,00210,687,False
+Female,25.67,0.29,True,False,Computer Science,Viking,1.5,False,False,0,True,Citizenship,00160,0,False
+Male,24.50,2.415,True,False,Computer Science,Viking,0.0,False,False,0,False,Citizenship,00120,0,False
+Female,24.08,0.875,False,True,Marketing,Viking,0.085,False,True,4,False,Citizenship,00254,1950,False
+Female,21.92,0.5,False,True,Computer Science,Viking,0.125,False,False,0,False,Citizenship,00360,0,False
+Male,36.58,0.29,False,True,Fashion Photography,Fulani,0.0,False,True,10,False,Citizenship,00200,18,False
+Male,23.00,1.835,False,True,Journalism,Javanese,0.0,False,True,1,False,Citizenship,00200,53,False
+Male,27.58,3.0,False,True,Marketing,Viking,2.79,False,True,1,True,Citizenship,00280,10,False
+Female,31.08,3.085,False,True,Computer Science,Viking,2.5,False,True,2,True,Citizenship,00160,41,False
+Male,30.42,1.375,False,True,Writing,Hmong,0.04,False,True,3,False,Citizenship,00000,33,False
+Female,22.08,2.335,False,True,Accounting,Viking,0.75,False,False,0,False,Citizenship,00180,0,False
+Female,16.33,4.085,False,True,Illustration,Hmong,0.415,False,False,0,True,Citizenship,00120,0,False
+Male,21.92,11.665,False,True,Accounting,Hmong,0.085,False,False,0,False,Citizenship,00320,5,False
+Female,21.08,4.125,True,False,Illustration,Hmong,0.04,False,False,0,False,Citizenship,00140,100,False
+Female,17.42,6.5,False,True,Illustration,Viking,0.125,False,False,0,False,Citizenship,00060,100,False
+Female,19.17,4.0,True,False,Illustration,Viking,1.0,False,False,0,True,Citizenship,00360,1000,False
+Female,20.67,0.415,False,True,Computer Science,Viking,0.125,False,False,0,False,Citizenship,00000,44,False
+Female,26.75,2.0,False,True,Graphic Design,Viking,0.75,False,False,0,True,Citizenship,00080,0,False
+Female,23.58,0.835,False,True,Illustration,Hmong,0.085,False,False,0,True,Citizenship,00220,5,False
+Female,39.17,2.5,True,False,Illustration,Hmong,10.0,False,False,0,True,Other,00200,0,False
+Female,22.75,11.5,False,True,Illustration,Viking,0.415,False,False,0,False,Citizenship,00000,0,False
+Male,16.92,0.5,False,True,Illustration,Viking,0.165,False,True,6,True,Citizenship,00240,35,False
+Female,23.50,3.165,True,False,Accounting,Viking,0.415,False,True,1,True,Citizenship,00280,80,False
+Male,17.33,9.5,False,True,Aquaculture Agriculture,Viking,1.75,False,True,10,True,Citizenship,00000,10,False
+Female,23.75,0.415,True,False,Computer Science,Viking,0.04,False,True,2,False,Citizenship,00128,6,False
+Female,34.67,1.08,False,True,Marketing,Viking,1.165,False,False,0,False,Other,00028,0,False
+Female,74.83,19.0,True,False,Fashion Photography,Fulani,0.04,False,True,2,False,Citizenship,00000,351,False
+Female,28.17,0.125,True,False,Accounting,Viking,0.085,False,False,0,False,Citizenship,00216,2100,False
+Female,24.50,13.335,True,False,Aquaculture Agriculture,Viking,0.04,False,False,0,True,Citizenship,00120,475,False
+Female,18.83,3.54,True,False,Fashion Photography,Fulani,0.0,False,False,0,True,Citizenship,00180,1,False
+Male,45.33,1.0,False,True,Chemistry,Viking,0.125,False,False,0,True,Citizenship,00263,0,False
+Male,47.25,0.75,False,True,Chemistry,Hmong,2.75,True,True,1,False,Citizenship,00333,892,True
+Female,24.17,0.875,False,True,Chemistry,Viking,4.625,True,True,2,True,Citizenship,00520,2000,True
+Female,39.25,9.5,False,True,Marketing,Viking,6.5,True,True,14,False,Citizenship,00240,4607,True
+Male,20.50,11.835,False,True,Computer Science,Hmong,6.0,True,False,0,False,Citizenship,00340,0,True
+Male,18.83,4.415,True,False,Computer Science,Hmong,3.0,True,False,0,False,Citizenship,00240,0,True
+Female,19.17,9.5,False,True,Writing,Viking,1.5,True,False,0,False,Citizenship,00120,2206,True
+Male,25.00,0.875,False,True,Xenobiology,Hmong,1.04,True,False,0,True,Citizenship,00160,5860,True
+Female,20.17,9.25,False,True,Computer Science,Viking,1.665,True,True,3,True,Citizenship,00040,28,True
+Female,25.75,0.5,False,True,Computer Science,Viking,1.46,True,True,5,True,Citizenship,00312,0,True
+Female,20.42,7.0,False,True,Computer Science,Viking,1.625,True,True,3,False,Citizenship,00200,1391,True
+Female,39.00,5.0,False,True,Computer Consulting,Viking,3.5,True,True,10,True,Citizenship,00000,0,True
+Male,64.08,0.165,False,True,Fashion Photography,Fulani,0.0,True,True,1,False,Citizenship,00232,100,True
+Female,28.25,5.125,False,True,Xenobiology,Viking,4.75,True,True,2,False,Citizenship,00420,7,True
+Male,28.75,3.75,False,True,Computer Science,Viking,1.085,True,True,1,True,Citizenship,00371,0,True
+Female,31.33,19.5,False,True,Computer Science,Viking,7.0,True,True,16,False,Citizenship,00000,5000,True
+Male,18.92,9.0,False,True,Aquaculture Agriculture,Viking,0.75,True,True,2,False,Citizenship,00088,591,True
+Male,24.75,3.0,False,True,Chemistry,Hmong,1.835,True,True,19,False,Citizenship,00000,500,True
+Male,30.67,12.0,False,True,Computer Science,Viking,2.0,True,True,1,False,Citizenship,00220,19,True
+Female,21.00,4.79,True,False,Writing,Viking,2.25,True,True,1,True,Citizenship,00080,300,True
+Female,13.75,4.0,True,False,Writing,Viking,1.75,True,True,2,True,Citizenship,00120,1000,True
+Male,46.00,4.0,False,True,Journalism,Javanese,0.0,True,False,0,False,Citizenship,00100,960,True
+Male,44.33,0.0,False,True,Computer Science,Viking,2.5,True,False,0,False,Citizenship,00000,0,True
+Female,20.25,9.96,False,True,Engineering,Druze,0.0,True,False,0,False,Citizenship,00000,0,True
+Female,22.67,2.54,True,False,Computer Science,Hmong,2.585,True,False,0,False,Citizenship,00000,0,True
+Male,60.92,5.0,False,True,Aquaculture Agriculture,Viking,4.0,True,True,4,False,Citizenship,00000,99,True
+Female,16.08,0.75,False,True,Computer Science,Viking,1.75,True,True,5,True,Citizenship,00352,690,True
+Male,28.17,0.375,False,True,Chemistry,Viking,0.585,True,True,4,False,Citizenship,00080,0,True
+Female,39.17,1.71,False,True,Xenobiology,Viking,0.125,True,True,5,True,Citizenship,00480,0,True
+Male,20.42,7.5,False,True,Accounting,Viking,1.5,True,True,1,False,Citizenship,00160,234,True
+Male,30.00,5.29,False,True,Engineering,Druze,2.25,True,True,5,True,Citizenship,00099,500,True
+Female,22.83,3.0,False,True,Marketing,Viking,1.29,True,True,1,False,Citizenship,00260,800,True
+Male,22.50,8.5,False,True,Chemistry,Viking,1.75,True,True,10,False,Citizenship,00080,990,False
+Male,28.58,1.665,False,True,Chemistry,Viking,2.415,True,False,0,True,Citizenship,00440,0,False
+Female,45.17,1.5,False,True,Computer Science,Viking,2.5,True,False,0,True,Citizenship,00140,0,False
+Female,41.58,1.75,False,True,Accounting,Viking,0.21,True,False,0,False,Citizenship,00160,0,False
+Male,57.08,0.335,False,True,Illustration,Bamar,1.0,True,False,0,True,Citizenship,00252,2197,False
+Male,55.75,7.08,False,True,Accounting,Hmong,6.75,True,True,3,True,Citizenship,00100,50,False
+Female,43.25,25.21,False,True,Chemistry,Hmong,0.21,True,True,1,False,Citizenship,00760,90,False
+Male,25.33,2.085,False,True,Computer Science,Hmong,2.75,True,False,0,True,Citizenship,00360,1,False
+Male,24.58,0.67,False,True,Aquaculture Agriculture,Hmong,1.75,True,False,0,False,Citizenship,00400,0,False
+Female,43.17,2.25,False,True,Illustration,Bamar,0.75,True,False,0,False,Citizenship,00560,0,False
+Female,40.92,0.835,False,True,Fashion Photography,Fulani,0.0,True,False,0,False,Citizenship,00130,1,False
+Female,31.83,2.5,False,True,Aquaculture Agriculture,Viking,7.5,True,False,0,True,Citizenship,00523,0,False
+Male,33.92,1.585,True,False,Fashion Photography,Fulani,0.0,True,False,0,False,Citizenship,00320,0,False
+Male,24.92,1.25,False,True,Fashion Photography,Fulani,0.0,True,False,0,False,Citizenship,00080,0,False
+Female,35.25,3.165,False,True,Xenobiology,Hmong,3.75,True,False,0,True,Citizenship,00680,0,False
+Female,34.25,1.75,False,True,Writing,Bamar,0.25,True,False,0,True,Citizenship,00163,0,False
+Female,19.42,1.5,True,False,Computer Consulting,Viking,2.0,True,False,0,True,Citizenship,00100,20,False
+Female,42.75,3.0,False,True,Illustration,Bamar,1.0,True,False,0,False,Citizenship,00000,200,False
+Female,19.67,10.0,True,False,Accounting,Hmong,0.835,True,False,0,True,Citizenship,00140,0,False
+Female,36.33,3.79,False,True,Writing,Viking,1.165,True,False,0,True,Citizenship,00200,0,False
+Female,30.08,1.04,True,False,Illustration,Bamar,0.5,True,True,10,True,Citizenship,00132,28,False
+Female,44.25,11.0,True,False,Graphic Design,Viking,1.5,True,False,0,False,Other,00000,0,False
+Female,23.58,0.46,True,False,Writing,Viking,2.625,True,True,6,True,Citizenship,00208,347,False
+Female,23.92,1.5,False,True,Graphic Design,Hmong,1.875,True,True,6,False,Citizenship,00200,327,True
+Female,33.17,1.0,False,True,Xenobiology,Viking,0.75,True,True,7,True,Citizenship,00340,4071,True
+Female,48.33,12.0,False,True,Marketing,Viking,16.0,True,False,0,False,Other,00110,0,True
+Female,76.75,22.29,False,True,Engineering,Zulu,12.75,True,True,1,True,Citizenship,00000,109,True
+Female,51.33,10.0,False,True,Illustration,Bamar,0.0,True,True,11,False,Citizenship,00000,1249,True
+Female,34.75,15.0,False,True,Human Resources,Navajo,5.375,True,True,9,True,Citizenship,00000,134,True
+Female,38.58,3.335,False,True,Writing,Viking,4.0,True,True,14,False,Citizenship,00383,1344,True
+Male,22.42,11.25,True,False,Xenobiology,Hmong,0.75,True,True,4,False,Citizenship,00000,321,True
+Female,41.92,0.42,False,True,Computer Science,Hmong,0.21,True,True,6,False,Citizenship,00220,948,True
+Female,29.58,4.5,False,True,Writing,Viking,7.5,True,True,2,True,Citizenship,00330,0,True
+Male,32.17,1.46,False,True,Writing,Viking,1.085,True,True,16,False,Citizenship,00120,2079,True
+Female,51.42,0.04,False,True,Xenobiology,Hmong,0.04,True,False,0,False,Citizenship,00000,3000,True
+Male,22.83,2.29,False,True,Chemistry,Hmong,2.29,True,True,7,True,Citizenship,00140,2384,True
+Male,25.00,12.33,False,True,Computer Consulting,Hmong,3.5,True,True,6,False,Citizenship,00400,458,True
+Female,26.75,1.125,False,True,Xenobiology,Hmong,1.25,True,False,0,False,Citizenship,00000,5298,True
+Female,23.33,1.5,False,True,Computer Science,Hmong,1.415,True,False,0,False,Citizenship,00422,200,True
+Female,24.42,12.335,False,True,Chemistry,Hmong,1.585,True,False,0,True,Citizenship,00120,0,True
+Female,42.17,5.04,False,True,Chemistry,Hmong,12.75,True,False,0,True,Citizenship,00092,0,True
+Male,20.83,3.0,False,True,Aquaculture Agriculture,Viking,0.04,True,False,0,False,Citizenship,00100,0,True
+Female,23.08,11.5,False,True,Writing,Hmong,2.125,True,True,11,True,Citizenship,00290,284,True
+Male,25.17,2.875,False,True,Xenobiology,Hmong,0.875,True,False,0,False,Citizenship,00360,0,True
+Female,43.08,0.375,True,False,Computer Science,Viking,0.375,True,True,8,True,Citizenship,00300,162,True
+Male,35.75,0.915,False,True,Aquaculture Agriculture,Viking,0.75,True,True,4,False,Citizenship,00000,1583,True
+Female,59.50,2.75,False,True,Writing,Viking,1.75,True,True,5,True,Citizenship,00060,58,True
+Female,21.00,3.0,True,False,Graphic Design,Viking,1.085,True,True,8,True,Citizenship,00160,1,True
+Female,21.92,0.54,True,False,Xenobiology,Viking,0.04,True,True,1,True,Citizenship,00840,59,True
+Male,65.17,14.0,False,True,Fashion Photography,Fulani,0.0,True,True,11,True,Citizenship,00000,1400,True
+Male,20.33,10.0,False,True,Computer Science,Hmong,1.0,True,True,4,False,Citizenship,00050,1465,True
+Female,32.25,0.165,True,False,Computer Science,Hmong,3.25,True,True,1,True,Citizenship,00432,8000,True
+Female,30.17,0.5,False,True,Computer Science,Viking,1.75,True,True,11,False,Citizenship,00032,540,True
+Female,25.17,6.0,False,True,Computer Science,Viking,1.0,True,True,3,False,Citizenship,00000,0,True
+Female,39.17,1.625,False,True,Computer Science,Viking,1.5,True,True,10,False,Citizenship,00186,4700,True
+Female,39.08,6.0,False,True,Marketing,Viking,1.29,True,True,5,True,Citizenship,00108,1097,True
+Female,31.67,0.83,False,True,Xenobiology,Viking,1.335,True,True,8,True,Citizenship,00303,3290,True
+Female,41.00,0.04,False,True,Engineering,Viking,0.04,False,True,1,False,Other,00560,0,True
+Female,48.50,4.25,False,True,Marketing,Viking,0.125,True,False,0,True,Citizenship,00225,0,True
+Female,32.67,9.0,True,False,Writing,Hmong,5.25,True,False,0,True,Citizenship,00154,0,True
+Male,28.08,15.0,True,False,Engineering,Zulu,0.0,True,False,0,False,Citizenship,00000,13212,True
+Female,73.42,17.75,False,True,Fashion Photography,Fulani,0.0,True,False,0,True,Citizenship,00000,0,True
+Female,64.08,20.0,False,True,Xenobiology,Hmong,17.5,True,True,9,True,Citizenship,00000,1000,True
+Female,51.58,15.0,False,True,Computer Science,Viking,8.5,True,True,9,False,Citizenship,00000,0,True
+Female,26.67,1.75,True,False,Computer Science,Viking,1.0,True,True,5,True,Citizenship,00160,5777,True
+Female,25.33,0.58,False,True,Computer Science,Viking,0.29,True,True,7,True,Citizenship,00096,5124,True
+Female,30.17,6.5,False,True,Computer Consulting,Viking,3.125,True,True,8,False,Citizenship,00330,1200,True
+Female,27.00,0.75,False,True,Computer Science,Hmong,4.25,True,True,3,True,Citizenship,00312,150,True
+Female,34.17,5.25,False,True,Writing,Viking,0.085,False,False,0,True,Citizenship,00290,6,True
+Female,38.67,0.21,False,True,Accounting,Viking,0.085,True,False,0,True,Citizenship,00280,0,True
+Female,25.75,0.75,False,True,Computer Science,Bamar,0.25,True,False,0,False,Citizenship,00349,23,True
+Male,46.08,3.0,False,True,Computer Science,Viking,2.375,True,True,8,True,Citizenship,00396,4159,True
+Male,21.50,6.0,False,True,Aquaculture Agriculture,Viking,2.5,True,True,3,False,Citizenship,00080,918,True
+Male,20.08,0.125,False,True,Chemistry,Viking,1.0,False,True,1,False,Citizenship,00240,768,True
+Female,20.50,2.415,False,True,Computer Science,Viking,2.0,True,True,11,True,Citizenship,00200,3000,True
+Male,29.50,0.46,False,True,Accounting,Viking,0.54,True,True,4,False,Citizenship,00380,500,True
+Female,29.83,1.25,True,False,Accounting,Viking,0.25,False,False,0,False,Citizenship,00224,0,False
+Female,20.08,0.25,False,True,Chemistry,Viking,0.125,False,False,0,False,Citizenship,00200,0,False
+Female,23.42,0.585,False,True,Computer Science,Hmong,0.085,True,False,0,False,Citizenship,00180,0,False
+Male,29.58,1.75,True,False,Accounting,Viking,1.25,False,False,0,True,Citizenship,00280,0,False
+Female,16.17,0.04,False,True,Computer Science,Viking,0.04,False,False,0,False,Citizenship,00000,0,True
+Female,32.33,3.5,False,True,Accounting,Viking,0.5,False,False,0,True,Citizenship,00232,0,False
+Female,47.83,4.165,False,True,Xenobiology,Bamar,0.085,False,False,0,True,Citizenship,00520,0,False
+Female,20.00,1.25,True,False,Accounting,Viking,0.125,False,False,0,False,Citizenship,00140,4,False
+Female,27.58,3.25,True,False,Chemistry,Hmong,5.085,False,True,2,True,Citizenship,00369,1,False
+Female,22.00,0.79,False,True,Writing,Viking,0.29,False,True,1,False,Citizenship,00420,283,False
+Female,19.33,10.915,False,True,Computer Science,Bamar,0.585,False,True,2,True,Citizenship,00200,7,False
+Male,38.33,4.415,False,True,Computer Science,Viking,0.125,False,False,0,False,Citizenship,00160,0,False
+Female,29.42,1.25,False,True,Computer Science,Hmong,0.25,False,True,2,True,Citizenship,00400,108,False
+Female,22.67,0.75,False,True,Illustration,Viking,1.585,False,True,1,True,Citizenship,00400,9,False
+Female,32.25,14.0,True,False,Fashion Photography,Fulani,0.0,False,True,2,False,Citizenship,00160,1,False
+Female,29.58,4.75,False,True,Marketing,Viking,2.0,False,True,1,True,Citizenship,00460,68,False
+Female,18.42,10.415,True,False,Aquaculture Agriculture,Viking,0.125,True,False,0,False,Citizenship,00120,375,False
+Female,22.17,2.25,False,True,Illustration,Viking,0.125,False,False,0,False,Citizenship,00160,10,False
+Female,22.67,0.165,False,True,Computer Science,Javanese,2.25,False,False,0,True,Other,00000,0,True
+Female,18.83,0.0,False,True,Chemistry,Viking,0.665,False,False,0,False,Citizenship,00160,1,False
+Female,21.58,0.79,True,False,Computer Consulting,Viking,0.665,False,False,0,False,Citizenship,00160,0,False
+Female,23.75,12.0,False,True,Computer Science,Viking,2.085,False,False,0,False,Other,00080,0,False
+Female,36.08,2.54,False,True,Fashion Photography,Fulani,0.0,False,False,0,False,Citizenship,00000,1000,False
+Female,29.25,13.0,False,True,Graphic Design,Hmong,0.5,False,False,0,False,Citizenship,00228,0,False
+Male,19.58,0.665,False,True,Writing,Viking,1.665,False,False,0,False,Citizenship,00220,5,False
+Male,22.92,1.25,False,True,Chemistry,Viking,0.25,False,False,0,True,Citizenship,00120,809,False
+Male,27.25,0.29,False,True,Marketing,Hmong,0.125,False,True,1,True,Citizenship,00272,108,False
+Male,38.75,1.5,False,True,Fashion Photography,Fulani,0.0,False,False,0,False,Citizenship,00076,0,False
+Female,32.42,2.165,True,False,Accounting,Fulani,0.0,False,False,0,False,Citizenship,00120,0,False
+Male,23.75,0.71,False,True,Writing,Viking,0.25,False,True,1,True,Citizenship,00240,4,False
+Female,18.17,2.46,False,True,Computer Science,Navajo,0.96,False,True,2,True,Citizenship,00160,587,False
+Female,40.92,0.5,True,False,Marketing,Viking,0.5,False,False,0,True,Citizenship,00130,0,False
+Female,19.50,9.585,False,True,Aquaculture Agriculture,Viking,0.79,False,False,0,False,Citizenship,00080,350,False
+Female,28.58,3.625,False,True,Aquaculture Agriculture,Viking,0.25,False,False,0,True,Citizenship,00100,0,False
+Female,35.58,0.75,False,True,Accounting,Viking,1.5,False,False,0,True,Citizenship,00231,0,False
+Female,34.17,2.75,False,True,Illustration,Bamar,2.5,False,False,0,True,Citizenship,00232,200,False
+Male,33.17,2.25,True,False,Computer Consulting,Viking,3.5,False,False,0,True,Citizenship,00200,141,False
+Female,31.58,0.75,True,False,Aquaculture Agriculture,Viking,3.5,False,False,0,True,Citizenship,00320,0,False
+Male,52.50,7.0,False,True,Aquaculture Agriculture,Hmong,3.0,False,False,0,False,Citizenship,00000,0,False
+Female,36.17,0.42,True,False,Writing,Viking,0.29,False,False,0,True,Citizenship,00309,2,False
+Female,37.33,2.665,False,True,Computer Consulting,Viking,0.165,False,False,0,True,Citizenship,00000,501,False
+Male,20.83,8.5,False,True,Computer Science,Viking,0.165,False,False,0,False,Citizenship,00000,351,False
+Female,24.08,9.0,False,True,Aquaculture Agriculture,Viking,0.25,False,False,0,True,Citizenship,00000,0,False
+Female,25.58,0.335,False,True,Accounting,Hmong,3.5,False,False,0,True,Citizenship,00340,0,False
+Male,35.17,3.75,False,True,Fashion Photography,Fulani,0.0,False,True,6,False,Citizenship,00000,200,False
+Female,48.08,3.75,False,True,Illustration,Bamar,1.0,False,False,0,False,Citizenship,00100,2,False
+Male,15.83,7.625,False,True,Chemistry,Viking,0.125,False,True,1,True,Citizenship,00000,160,False
+Male,22.50,0.415,False,True,Illustration,Viking,0.335,False,False,0,True,Other,00144,0,False
+Female,21.50,11.5,False,True,Illustration,Viking,0.5,True,False,0,True,Citizenship,00100,68,False
+Male,23.58,0.83,False,True,Chemistry,Viking,0.415,False,True,1,True,Citizenship,00200,11,False
+Male,21.08,5.0,True,False,Fashion Photography,Fulani,0.0,False,False,0,False,Citizenship,00000,0,False
+Female,25.67,3.25,False,True,Computer Science,Hmong,2.29,False,True,1,True,Citizenship,00416,21,False
+Male,38.92,1.665,False,True,Aquaculture Agriculture,Viking,0.25,False,False,0,False,Citizenship,00000,390,False
+Male,15.75,0.375,False,True,Computer Science,Viking,1.0,False,False,0,False,Citizenship,00120,18,False
+Male,28.58,3.75,False,True,Computer Science,Viking,0.25,False,True,1,True,Citizenship,00040,154,False
+Female,22.25,9.0,False,True,Aquaculture Agriculture,Viking,0.085,False,False,0,False,Citizenship,00000,0,False
+Female,29.83,3.5,False,True,Computer Science,Viking,0.165,False,False,0,False,Citizenship,00216,0,False
+Male,23.50,1.5,False,True,Writing,Viking,0.875,False,False,0,True,Citizenship,00160,0,False
+Female,32.08,4.0,True,False,Computer Consulting,Viking,1.5,False,False,0,True,Citizenship,00120,0,False
+Female,31.08,1.5,True,False,Writing,Viking,0.04,False,False,0,False,Other,00160,0,False
+Female,31.83,0.04,True,False,Marketing,Viking,0.04,False,False,0,False,Citizenship,00000,0,False
+Male,21.75,11.75,False,True,Computer Science,Viking,0.25,False,False,0,True,Citizenship,00180,0,False
+Male,17.92,0.54,False,True,Computer Science,Viking,1.75,False,True,1,True,Citizenship,00080,5,False
+Female,30.33,0.5,False,True,Graphic Design,Hmong,0.085,False,False,0,True,Other,00252,0,False
+Female,51.83,2.04,True,False,Fashion Photography,Fulani,1.5,False,False,0,False,Citizenship,00120,1,False
+Female,47.17,5.835,False,True,Writing,Viking,5.5,False,False,0,False,Citizenship,00465,150,False
+Female,25.83,12.835,False,True,Computer Consulting,Viking,0.5,False,False,0,False,Citizenship,00000,2,False
+Male,50.25,0.835,False,True,Aquaculture Agriculture,Viking,0.5,False,False,0,True,Citizenship,00240,117,False
+Male,29.50,2.0,True,False,Engineering,Hmong,2.0,False,False,0,False,Citizenship,00256,17,False
+Male,37.33,2.5,False,True,Illustration,Hmong,0.21,False,False,0,False,Citizenship,00260,246,False
+Male,41.58,1.04,False,True,Aquaculture Agriculture,Viking,0.665,False,False,0,False,Citizenship,00240,237,False
+Male,30.58,10.665,False,True,Chemistry,Hmong,0.085,False,True,12,True,Citizenship,00129,3,False
+Female,19.42,7.25,False,True,Marketing,Viking,0.04,False,True,1,False,Citizenship,00100,1,False
+Male,17.92,10.21,False,True,Fashion Photography,Fulani,0.0,False,False,0,False,Citizenship,00000,50,False
+Male,20.08,1.25,False,True,Computer Science,Viking,0.0,False,False,0,False,Citizenship,00000,0,False
+Female,19.50,0.29,False,True,Accounting,Viking,0.29,False,False,0,False,Citizenship,00280,364,False
+Female,27.83,1.0,True,False,Graphic Design,Hmong,3.0,False,False,0,False,Citizenship,00176,537,False
+Female,17.08,3.29,False,True,Illustration,Viking,0.335,False,False,0,True,Citizenship,00140,2,False
+Female,36.42,0.75,True,False,Graphic Design,Viking,0.585,False,False,0,False,Citizenship,00240,3,False
+Female,40.58,3.29,False,True,Marketing,Viking,3.5,False,False,0,True,Other,00400,0,False
+Female,21.08,10.085,True,False,Engineering,Hmong,1.25,False,False,0,False,Citizenship,00260,0,False
+Male,22.67,0.75,False,True,Computer Science,Viking,2.0,False,True,2,True,Citizenship,00200,394,False
+Male,25.25,13.5,True,False,Fashion Photography,Fulani,2.0,False,True,1,True,Citizenship,00200,1,False
+Female,17.92,0.205,False,True,Aquaculture Agriculture,Viking,0.04,False,False,0,False,Citizenship,00280,750,False
+Female,35.00,3.375,False,True,Computer Science,Hmong,8.29,False,False,0,True,Citizenship,00000,0,False
